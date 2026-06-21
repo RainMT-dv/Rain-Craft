@@ -1,6 +1,8 @@
 # Rain's Craft
 
-Um clone do **Minecraft Java Edition** feito em HTML5/JavaScript com Three.js. Roda inteiramente no navegador — sem necessidade de ferramentas de compilação, basta abrir o `index.html`.
+### 👉 [Jogue agora online!](https://rainmt-dv.github.io/Rain-Craft/)
+
+Um clone do **Minecraft Java Edition** feito em HTML5/JavaScript com Three.js. Roda inteiramente no navegador — sem necessidade de ferramentas de compilação.
 
 ## Funcionalidades
 
