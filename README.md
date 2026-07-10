@@ -65,7 +65,7 @@ O arquivo `RainsCraft.html` também pode ser servido via GitHub Pages.
 
 ```
 Rain-Craft/
-├── RainsCraft.html    # Versão single-file (para GitHub Pages/Release)
+├── index.html    # Versão single-file (para GitHub Pages/Release)
 ├── README.md
 └── js/                # Versão modular (desenvolvimento)
     ├── noise.js       # Simplex Noise 2D/3D com FBM
